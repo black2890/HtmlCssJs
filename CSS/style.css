@@ -89,7 +89,7 @@ nav {
 }
 #topMenu > li:hover > ul {
     display: block;
-    z-index: 10px;
+    z-index: 10;
 }
 #topMenu > li > ul > li > a:hover{
     color: #f00;
