@@ -27,8 +27,17 @@ header {
     float: left;
     width: 250px;
     height: 100px;
-    font-family: 'Merienda', cursive;
+    padding-left: 20px;
+    line-height: 100px;
 }
+#logo h1 {
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    text-shadow: 0 -1px 0 #222;
+}
+
 
 /*      nav area        */
 nav {
